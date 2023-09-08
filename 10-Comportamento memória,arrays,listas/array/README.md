@@ -14,3 +14,8 @@ Fazer um programa para ler um número inteiro N e a altura de N pessoas. Armazen
 </table>
 
 [Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_1/src/application/Program.java)
+
+## Exemplo 2
+
+Lê 5 nomes e notas de uma turma, calcula e exibe a média das notas da turma e em seguida exibe a relação de nomes cuja nota é superior a esta média.
+
