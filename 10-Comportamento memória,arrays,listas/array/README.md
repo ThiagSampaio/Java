@@ -9,6 +9,6 @@ Fazer um programa para ler um número inteiro N e a altura de N pessoas. Armazen
  </tr>
  <tr>
     <td>3 <br> 1.72 <br> 1.56 <br> 1.80</td>
-    <td>Lorem ipsum ...</td>
+    <td>AVERAGE HEIGHT = 1.69</td>
  </tr>
 </table>
