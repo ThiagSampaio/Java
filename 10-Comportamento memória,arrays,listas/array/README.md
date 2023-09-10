@@ -58,3 +58,4 @@ Chame atenção do usuário em caso de uma consulta inválida, ou seja, com núm
 ## Exemplo 8
 
 Leia um conjunto de números. Exiba-os em ordem numérica crescente.
+[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_8/src/application/Program.java)
