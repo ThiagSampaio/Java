@@ -37,4 +37,4 @@ Leia um conjunto de salários, sendo que para terminar a entrada será fornecido
 ## Exemplo 5
 
 Leia um conjunto de valores inteiros e em seguida exiba-os na ordem inversa do que foram digitados.
-[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_4/src/application/Program.java)
+[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_5/src/application/Program.java)
