@@ -46,3 +46,11 @@ Crie um vetor capaz de armazenar 50 números inteiros. Em seguida faça o seu pr
 Em seguida exiba os valores deste vetor.
 
 [Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_6/src/application/Program.java)
+
+## Exemplo 7
+
+Faça um programa de consulta pela posição numérica da pessoa: leia nomes de pessoas, sendo a quantidade determinada pelo usuário. Logo após a entrada pergunte ao usuário o número do nome que ele gostaria de consultar. Após sua resposta, exiba o nome que fica na posição informada.
+
+Chame atenção do usuário em caso de uma consulta inválida, ou seja, com números menores ou iguais a zero, ou maiores do que a quantidade cadastrada.
+
+[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_6/src/application/Program.java)
