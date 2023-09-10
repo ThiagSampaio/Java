@@ -40,9 +40,9 @@ Leia um conjunto de valores inteiros e em seguida exiba-os na ordem inversa do q
 [Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_5/src/application/Program.java)
 
 
-## Exemplo 5
+## Exemplo 6
 
 Crie um vetor capaz de armazenar 50 números inteiros. Em seguida faça o seu preenchimento automático com os números de 101 a 150, ou seja, na posição número 0 ponha 101, na posição 1 ponha o número 102, e assim sucessivamente.
 Em seguida exiba os valores deste vetor.
 
-[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_5/src/application/Program.java)
+[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_6/src/application/Program.java)
