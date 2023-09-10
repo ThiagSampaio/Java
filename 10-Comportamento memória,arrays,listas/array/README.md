@@ -53,4 +53,4 @@ Faça um programa de consulta pela posição numérica da pessoa: leia nomes de 
 
 Chame atenção do usuário em caso de uma consulta inválida, ou seja, com números menores ou iguais a zero, ou maiores do que a quantidade cadastrada.
 
-[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_6/src/application/Program.java)
+[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_7/src/application/Program.java)
