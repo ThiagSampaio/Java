@@ -63,4 +63,4 @@ Leia um conjunto de números. Exiba-os em ordem numérica crescente.
 ## Exemplo 9
 Fazer um programa para ler um númerp inteiro N e os dados(nome e preço) de N Produtos. Armazene os N produtos em um vetor. Em seguida, mostrar o preço médio dos produtos
 
-[Resposta](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_8/src/application/Program.java)
+[Resposta](https://github.com/ThiagSampaio/Java/tree/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_9/src)
