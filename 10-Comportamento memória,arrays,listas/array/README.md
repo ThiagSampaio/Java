@@ -22,3 +22,8 @@ Lê 5 nomes e notas de uma turma, calcula e exibe a média das notas da turma e 
 [Resposta1](https://github.com/ThiagSampaio/Java/blob/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_2/src/application/Program.java)
 
 [Resposta2](https://github.com/ThiagSampaio/Java/tree/main/10-Comportamento%20mem%C3%B3ria%2Carrays%2Clistas/array/Exemplo_2_2/src)
+
+## Exemplo 3
+
+Leia um conjunto de notas, cuja quantidade seha determinada pelo usuário. Calcule a média de todas elas. Exiba o conjunto das notas maiores do que a média calculada. Em seguida, de forma agrupada, exiba o outro conjunto de notas(menores do qua a média)
+
