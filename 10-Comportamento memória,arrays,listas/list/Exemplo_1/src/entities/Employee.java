@@ -35,13 +35,16 @@ public class Employee {
 		return salary;
 	}
 
-	public void increaseSalary(double percentage){
+	public void increaseSalary(double percentage) {
 		salary = salary + (salary*percentage/100);
 	}
 	
 	public String toString() {
-		return id + ", " + name + ", " + String.format("%.2f", salary);
+		return id + ", " + name + ", " + salary;
 	}
+	
+	
+	
 	
 	
 	
